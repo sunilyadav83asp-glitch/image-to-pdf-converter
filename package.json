@@ -1,0 +1,24 @@
+{
+  "name": "image-to-pdf-converter",
+  "version": "1.0.0",
+  "description": "Image to PDF Converter - College Project (React, Vite, Node.js, Express, Supabase PostgreSQL, jsPDF)",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "start": "node server/server.js",
+    "dev:server": "node --watch server/server.js",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "jspdf",
+    "supabase",
+    "express",
+    "college-project"
+  ],
+  "author": "B.Tech CSE Student",
+  "license": "MIT"
+}
+
